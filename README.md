@@ -1,10 +1,4 @@
-<a href="https://www.twilio.com">
-  <img src="https://static0.twilio.com/marketing/bundles/marketing/img/logos/wordmark-red.svg" alt="Twilio" width="250" />
-</a>
-
 # Block Spam Calls. Powered by Twilio - Python/Flask
-
-![](https://github.com/TwilioDevEd/block-spam-calls-python/workflows/Flask/badge.svg)
 
 > This template is part of Twilio CodeExchange. If you encounter any issues with this code, please open an issue at [github.com/twilio-labs/code-exchange/issues](https://github.com/twilio-labs/code-exchange/issues).
 
